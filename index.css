@@ -8,8 +8,8 @@
 
 .u-section-1 .u-image-1 {
   min-height: 841px;
-  background-image: url("images/Banner_Website-7.png");
-  background-position: 4.88% 50%;
+  background-image: url("images/Banner_Website-13.png");
+  background-position: 50% 50%;
   background-size: cover;
 }
 
@@ -61,8 +61,8 @@
 
 .u-section-1 .u-image-2 {
   min-height: 841px;
-  background-image: url("images/Banner_Website-7.png");
-  background-position: 95.12% 50%;
+  background-image: url("images/Banner_Website-14.png");
+  background-position: 94.83% 50%;
   background-size: cover;
 }
 
@@ -522,7 +522,7 @@
   .u-section-2 .u-image-2 {
     height: 313px;
     width: 313px;
-    margin-top: 0;
+    margin-top: 90px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -531,7 +531,6 @@
     width: 279px;
     height: 279px;
     margin-top: -327px;
-    margin-bottom: 34px;
     margin-left: 50px;
   }
 } .u-section-3 {
