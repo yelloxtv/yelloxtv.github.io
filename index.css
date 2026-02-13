@@ -1512,3 +1512,20 @@
     margin-left: 6px;
   }
 }
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1d2537;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1848b4;  /* Button-Blau */
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2a3f75;  /* Footer-Blau */
+}
